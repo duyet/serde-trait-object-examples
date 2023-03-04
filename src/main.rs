@@ -29,7 +29,6 @@ impl Transformer for MyCustom {
 }
 
 fn main() {
-
     let yaml = "
         - name: uppercase
         - name: my_custom
